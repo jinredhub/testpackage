@@ -4,10 +4,10 @@ testing my npm package
 
 # Installation
 
-`npm install testpackage --save`
+`npm install testpackage-jin --save`
 
 ```
-import {testpackage} from 'testpackage';
+import {testpackage} from 'testpackage-jin';
 
 testpackage({
     shadow_type: 'hard'
